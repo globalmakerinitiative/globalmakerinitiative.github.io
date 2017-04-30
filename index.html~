@@ -178,7 +178,7 @@
                                 <i class="fa fa-search-plus fa-3x"></i>
                             </div>
                         </div>
-                        <img src="img/portfolio/projectcomingsoon.jpg" class="img-responsive" alt="Circus tent">
+                        <img src="img/portfolio/prostheticarm.jpg" class="img-responsive" alt="Prosthetic Arm">
                     </a>
                 </div>
             </div>
@@ -250,6 +250,16 @@
                             <hr class="star-primary">
                             <img src="img/portfolio/purifier3.jpg" class="img-responsive img-centered" alt="">
                             <p>This project harnesses the bacteria killing properties of ultraviolet waves to purify water. This project utilizes the timer on Arduino and a potentiometer which the user adjusts for the volume of water. After the purifier has been in the water for enough time, the indicator light will light up, and the UV LED will power off.</p>
+                             <h3>Hardware for this project:</h3> <p>
+                          		Arduino Uno <br>
+                          		Colored LED<br>
+                          		Ultraviolet LED (wavelength of 328nm to 210nm)<br>
+                          		</p>
+                           <h3>Wiring Diagram:</h3>
+                           <img src="img/portfolio/WaterPurfier.png" class="img-responsive" alt="water purfier">
+                           
+<p>The code is available on GitHub. Use PontentiometerBasedPurifier.ino under "PotetiometerBasedPurfier"</p>
+                           <p>The STL Model for this project can be found on Thingiverse</p>
                             <ul class="list-inline item-details">
                                 <li>3D Model Link:
                                     <strong><a href="http://startbootstrap.com">Thingiverse</a>
@@ -287,9 +297,19 @@
                             <hr class="star-primary">
                             <img src="img/BlindAid.jpg" class="img-responsive img-centered" alt="">
                             <p>This device works by taking the values from the ultrasonic, and scaling them to the range of a servo. The user holds the device, and can tell how far something is by the angle the servo is at.</p>
+                             <h3>Hardware for this project:</h3> <p>
+                          		Arduino Uno <br>
+                          		9g Servo<br>
+                          		HC-SR04 Ultrasonic<br>
+                          		</p>
+                           <h3>Wiring Diagram:</h3>
+                           <img src="img/portfolio/BlindAiid.png" class="img-responsive" alt="Prosthetic Arm">
+                           
+<p>The code is available on GitHub.</p>
+                           <p>The STL Model for this project can be found on Thingiverse</p>
                             <ul class="list-inline item-details">
                                 <li>3D Model Link:
-                                    <strong><a href="http://startbootstrap.com">Thingiverse</a>
+                                    <strong><a href="http://www.thingiverse.com/thing:2284079">Thingiverse</a>
                                     </strong>
                                 </li>
                                 <li>Code:
@@ -324,13 +344,23 @@
                             <hr class="star-primary">
                             <img src="img/portfolio/projectcomingsoon.jpg" class="img-responsive img-centered" alt="">
                             <p>This project utilizes a potentiometer affixed to the elbow values scaled to a servo attached to a hand to open and close it. Hand is derivative work of Steve Wood's Flexihand. </p>
+                          <h3>Hardware for this project:</h3> <p>
+                          		Arduino Uno <br>
+                          		9g Servo<br>
+                          		10k Potentiomete<br>
+                          		</p>
+                           <h3>Wiring Diagram:</h3>
+                           <img src="img/portfolio/prostheticarm.jpg" class="img-responsive" alt="Prosthetic Arm">
+                           
+<p>The code is available on GitHub</p>
+                           <p>The STL Model for this project can be found on Thingiverse</p>
                             <ul class="list-inline item-details">
                                <li>3D Model Link:
                                     <strong><a href="http://startbootstrap.com">Thingiverse</a>
                                     </strong>
                                 </li>
                                 <li>Code:
-                                    <strong><a href="http://startbootstrap.com">GitHub Repository</a>
+                                    <strong><a href="https://github.com/EinsteinUnicorn/ARM_REVISITED">GitHub Repository</a>
                                     </strong>
                                 </li>
                                 <li>Author:

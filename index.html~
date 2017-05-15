@@ -188,7 +188,7 @@
                                 <i class="fa fa-search-plus fa-3x"></i>
                             </div>
                         </div>
-                        <img src="img/portfolio/prostheticarm.jpg" class="img-responsive" alt="Water Disturber">
+                        <img src="img/portfolio/waterdisfrnt.JPG" class="img-responsive" alt="Water Disturber">
                     </a>
                 </div>
             </div>
@@ -399,7 +399,10 @@
                         <div class="modal-body">
                             <h2>Mosquito Breeding-Place Disturber Apparatus</h2>
                             <hr class="star-primary">
-                            <img src="img/BlindAid.jpg" class="img-responsive img-centered" alt="">
+                            <img src="img/portfolio/waterdisfrnt.JPG" class="img-responsive img-centered" alt="">
+                            img{
+                            transform: rotate(90deg);
+                            }
                             <p>Many diseases such as Denque Fever, Malaria and Yellow Fever are spread through Mosquito vectors. This device aims to keep mosquito populations low by keeping still water distrubed, thus keeping them from breeding.</p>
                              <h3>Hardware for this project:</h3> <p>
                           		AA Battery Holder <br>
@@ -407,7 +410,7 @@
                           		</p>
                           		<p>In order for this project to stay afloat, you will need a pool noodle cut up and affixed to the frame.</p>
                            <h3>Wiring Diagram:</h3>
-                           <img src="img/portfolio/BlindAiid.png" class="img-responsive" alt="Prosthetic Arm">
+                           <img src="img/portfolio/waterdisturber.png" class="img-responsive" alt="Prosthetic Arm">
                            <p>The STL Model for this project can be found on Thingiverse</p>
                             <ul class="list-inline item-details">
                                 <li>3D Model Link:
